@@ -1,4 +1,4 @@
-**Exploring Rust as a Data Something and certified Ice Cream maker :D**
+**Data Engineer and certified Ice Cream maker :D**
 
 Open source contributions: 
 - [Github](https://github.com/search?q=author%3Amoreaupascal56&type=pullrequests&p=1)
